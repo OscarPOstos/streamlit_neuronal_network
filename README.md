@@ -17,7 +17,7 @@ $peso * input$
 
 Esta neurona ahora procesa 2 entradas y internamente calcula el peso w0 con la entrada x0 y es sumado con el producto de peso w1 con entrada x1 que se resume en esta formula
 
-$w0 * x0+$w1 * x1$
+$w0 * x0+w1 * x1$
 
 ## Neurona de 3 entradas y un valor de sesgo
 
@@ -27,4 +27,4 @@ $w0 * x0+$w1 * x1$
 
 Esta neurona ahora trabaja con 3 entradas y internamente calcula el peso w0 con la entrada x0 y es sumado con el producto de peso w1 con entrada x1, el producto de w2 y x2 y el valor de sesgo mejor conocido como bias que se resume en esta formula
 
-$w0 * x0 + $w1 * x1 + w2 * x2 * bias$
+$w0 * x0 + w1 * x1 + w2 * x2 + bias$
