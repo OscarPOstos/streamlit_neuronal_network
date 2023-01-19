@@ -2,6 +2,10 @@
 
 En este repositorio vamos a descubrir el funcionamiento de una red neuronal desde una neuronal con 1 entrada hasta una neurona con 3 entradas y valor de sesgo
 
+## Link aplicacion
+
+[Aplicación](https://oscarpostos-streamlit-neuronal-network-app-lucclw.streamlit.app)
+
 ## Neurona de 1 entrada
 
 [![ejemplo_neurona_1_entrada](https://subir-imagen.com/images/2023/01/10/Captura-de-pantalla-2023-01-10-102055.png "ejemplo_neurona_1_entrada")](https://subir-imagen.com/images/2023/01/10/Captura-de-pantalla-2023-01-10-102055.png "ejemplo_neurona_1_entrada")
